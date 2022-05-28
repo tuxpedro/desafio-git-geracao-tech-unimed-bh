@@ -50,7 +50,7 @@ O Programa Geração Tech Unimed-BH é um programa que oferece bootcamps gratuit
 
 ## Atividades | Cursos
 ---
-- [:heavy_check_mark:] Módulo 0 - Prepare-se para a Jornada
+- [ :heavy_check_mark: ] Módulo 0 - Prepare-se para a Jornada
     - [:heavy_check_mark:] Conheça as Oportunidades da DIO
     - [:heavy_check_mark:] Seja Protagonista Neste Bootcamp
     - [:heavy_check_mark:] Boas-vindas ao Bootcamp: Geração Tech Unimed BH | Fullstack
