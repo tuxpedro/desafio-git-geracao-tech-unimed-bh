@@ -37,13 +37,13 @@ O Programa Geração Tech Unimed-BH é um programa que oferece bootcamps gratuit
 
 1. ### Mentoria #3: Melhores práticas com API Rest e Restful
     :arrow_forward: [Live](https://www.youtube.com/watch?v=WPW-yyiDjNI) <br>
-    :date: 30/05/2022 :clock2: 14:00 :hourglass: 2 horas<br>
+    :date: 30/06/2022 :clock2: 16:00 :hourglass: 2 horas<br>
     :man_teacher: A definir :department_store: ??? <br>
 ---
 
 1. ### Mentoria #4: Como ser o próximo contratado pela Unimed BH
     :arrow_forward: [Live](https://www.youtube.com/watch?v=ES0EtjHSLwY) <br>
-    :date: 30/05/2022 :clock2: 14:00 :hourglass: 2 horas<br>
+    :date: 12/07/2022 :clock2: 16:00 :hourglass: 2 horas<br>
     :man_teacher: Marco Antônio :department_store: unimed <br>
 
 <br> 
